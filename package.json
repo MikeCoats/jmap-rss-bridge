@@ -1,0 +1,16 @@
+{
+  "name": "jmap-rss-bridge",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Coats <i.am@mikecoats.com> (https://mikecoats.com)",
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://github.com/MikeCoats/jmap-rss-bridge",
+  "bugs": "https://github.com/MikeCoats/jmap-rss-bridge/issues",
+  "repository": "github:MikeCoats/jmap-rss-bridge",
+  "dependencies": {
+    "jmap-client": "^0.1.0"
+  }
+}
